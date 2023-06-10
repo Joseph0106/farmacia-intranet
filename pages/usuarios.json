@@ -9,6 +9,16 @@
       "direccion": "AV. Arquitectos 399",
       "ciudad": "Ciudad 47",
       "pais": "Perú"
+    },
+    {
+      "nombre": "Joseph",
+      "apellido": "Vidal",
+      "usuario": "josephvidal0106",
+      "email": "joseph@gmail.com",
+      "password": "joseph",
+      "direccion": "AV. Los Geranios",
+      "ciudad": "Ciudad 12",
+      "pais": "Perú"
     }
   ]
 }
